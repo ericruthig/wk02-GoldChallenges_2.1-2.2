@@ -1,1 +1,23 @@
 /* STYLE HERE */
+#imageOne {
+    border-radius: 50%;
+    border: 10px  black;
+    border-style: solid;
+    align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+
+}
+
+#imageTwo {
+    border-radius: 50%;
+    border: 10px  black;
+    border-style: solid;
+    align-content: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+}
