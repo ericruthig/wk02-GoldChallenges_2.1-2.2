@@ -7,7 +7,7 @@
 
 //NOTE: Write your code below and push back to your github branch.  SUBMIT YOUR GITHUB URL IN CANVAS
 const showResult = async () => {
-    await fetch('https://swapi.co/api/people/<number here>')
+    await fetch('https://swapi.co/api/people/1')
     .then(res => res.json())
     .then(json => console.log(json))
      console.log(res, 'this should print last...')
