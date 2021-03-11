@@ -12,3 +12,5 @@ const showResult = async () => {
     .then(json => console.log(json))
      console.log(res, 'this should print last...')
     }
+
+showResult();
